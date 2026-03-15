@@ -53,7 +53,6 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 ```
-
 ## Output :
 <img width="1047" height="643" alt="560674504-63e162a3-4220-4d8a-8664-1b95be531b51" src="https://github.com/user-attachments/assets/a0e7a03e-a4d8-493f-a211-c05c9cef2ecd" />
 
